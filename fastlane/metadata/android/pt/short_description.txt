@@ -1,1 +1,0 @@
-Permitir que outras apps editem todos os parâmetros no banco de dados settings.db do Android

@@ -1,1 +1,0 @@
-Izinkan aplikasi lain mengedit semua parameter dalam basis data settings.db Android
