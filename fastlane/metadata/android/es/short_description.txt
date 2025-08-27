@@ -1,1 +1,1 @@
-Permita que otras aplicaciones editen todos los parámetros en la base de datos settings.db de Android.
+delete
